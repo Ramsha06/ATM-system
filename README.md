@@ -1,2 +1,1 @@
-# ATM system
- Abrilliant ATM system.
+"#ad7-atm" 
